@@ -23,5 +23,6 @@ type of java based collection.
 2. Unhappy path tests
 3. A docker file to create an image of the system
 4. Document the models of the system.
+5. Room limits. The grid should matrix should have an upper limit. (N x N)
 
 I was not sure if there was a need to implement the delete function. However this is my solution. :)
