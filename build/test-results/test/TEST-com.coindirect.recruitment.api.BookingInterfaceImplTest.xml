@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.coindirect.recruitment.api.BookingInterfaceImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-07-30T09:59:33" hostname="MTHOKOZINYO-PC" time="0.223">
-  <properties/>
-  <testcase name="retrieveBookingByGrid_thenSucceed()" classname="com.coindirect.recruitment.api.BookingInterfaceImplTest" time="0.219"/>
-  <testcase name="retrieveBookingById_thenSucceed()" classname="com.coindirect.recruitment.api.BookingInterfaceImplTest" time="0.001"/>
-  <testcase name="createBookingUsingRequest_thenSucceed()" classname="com.coindirect.recruitment.api.BookingInterfaceImplTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

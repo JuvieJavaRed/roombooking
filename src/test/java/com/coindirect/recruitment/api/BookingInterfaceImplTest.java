@@ -5,7 +5,6 @@ import com.coindirect.recruitment.dto.RequestBookingDto;
 import com.coindirect.recruitment.entities.Booking;
 import com.coindirect.recruitment.repository.BookingRespository;
 import com.coindirect.recruitment.utility.ObjectBuilder;
-import com.coindirect.recruitment.utility.UtilityMethods;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -17,8 +16,6 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import java.util.Date;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.mockito.Mockito.verify;
-import static org.mockito.Mockito.when;
 
 @ExtendWith(MockitoExtension.class)
 public class BookingInterfaceImplTest {
